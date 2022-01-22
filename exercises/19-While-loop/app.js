@@ -12,4 +12,4 @@ function startCounting()
 	return counter;
 }
 
-startCounting();
+startCounting(counter);
